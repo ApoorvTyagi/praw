@@ -2,7 +2,7 @@
 Change your desktop wallpaper to Reddit's hot🔥 posts of famous subreddit like r/wallpaper, r/naturepics, r/earthporn
 
 
-I have used the python reddit API wrapper to get the top posts from any random specified subreddits and bloom filters to make sure that wallpapers does not repeat as their is might be chances that the program picks the same wallpaper again. After downloading and setting the wallpaper it automatically deletes the image from your drive so that it doesn't accumulate and takes your disk space. 
+I have used the python reddit API wrapper to get the top posts from any random specified subreddits and bloom filters to make sure that wallpapers does not repeat as there might be chances that the program picks the same post again. After downloading and setting the wallpaper it automatically deletes the image from your drive so that it doesn't accumulate and takes your disk space. 
 
 If you want to explore more about bloom filters then here's 👉 the [LINK](https://apoorvtyagi133.blogspot.com/2020/05/bloom-filter.html) to my blog post where i have explained how a bloom filter works in detail.
 
